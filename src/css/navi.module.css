@@ -1,0 +1,12 @@
+li{ list-style: none;}
+a, a:hover{ text-decoration: none; color: #222;}
+ul, li, h1{ margin-bottom: 0;}
+
+.logo{ display: block; background-image: url('../img/logo.svg'); width: 100px; height: 50px; background-repeat: no-repeat; background-position: center;}
+.navbar{
+    position: fixed;
+    transform: rotate(90deg);
+    top: 50%;
+    right: calc(0.2% - 217.637px);
+    z-index: 3;
+}

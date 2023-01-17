@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  font-family: 'Montserrat', 'IBM Plex Sans KR';
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -0.083rem;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: 'Montserrat', 'IBM Plex Sans KR';
+  font-weight: 300;
+  line-height: 1;
+
+}

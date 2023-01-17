@@ -1,0 +1,33 @@
+{
+    "naviDATA" : [
+        {
+            "d1" :{
+                "naviText" : "취준생! 인사드립니다.",
+                "type" : "Link",
+                "href" : "",
+                "cls" : ["px-3", "font141618", "on"]
+            }
+        },{
+            "d1" :{
+                "naviText" : "개발성장과정",
+                "type" : "a",
+                "href" : "#process",
+                "cls" : ["px-3", "font141618"]
+            }
+        },{
+            "d1" :{
+                "naviText" : "결과물",
+                "type" : "a",
+                "href" : "#portfolio",
+                "cls" : ["px-3", "font141618"]
+            }
+        },{
+            "d1" :{
+                "naviText" : "연락주세요!",
+                "type" : "a",
+                "href" : "#contact",
+                "cls" : ["px-3", "font141618"]
+            }
+        }
+    ]
+}
