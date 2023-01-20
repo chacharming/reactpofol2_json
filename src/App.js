@@ -3,6 +3,7 @@ import './App.css';
 import Navi from './component/Navi';
 import Process from './component/Process'
 import About from './component/About';
+import Swiperbanner from './component/Swiperbanner';
 import Portfolio from './component/Portfolio';
 
 function App() {
@@ -11,6 +12,7 @@ function App() {
       <Navi></Navi>
       <About id="about"></About>
       <Process id="process" title="개발자 연혁" style={ {height: '100vh'}}></Process>
+      <Swiperbanner objkey="react"></Swiperbanner>
       <Portfolio id="portfolio" className=''></Portfolio>
       <section style={ {height: '100vh'}} id="contact"></section>
     </div>
